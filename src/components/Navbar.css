@@ -1,0 +1,28 @@
+.NavbarDIV{
+    margin-top: 7px;
+    display: flex;
+    width: 100%;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+}
+.customlogo{
+    width: 265px;
+    height: 81.7;
+    margin-left: 65px;
+}
+.ulnavbar{
+    display: flex;
+    margin-right: 22px;
+
+}
+.ulnavbar li{
+    list-style: none;
+    padding: 0px 10px;
+    font-weight: 500;
+    font-size: 17px;
+}
+.AI-Solutions{
+    color: rgb(0, 61, 174);
+}

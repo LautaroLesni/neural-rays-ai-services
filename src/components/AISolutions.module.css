@@ -1,0 +1,134 @@
+.AISolutionsDIV{
+    width: 100%;
+    margin: 0px;
+}
+.AIHeader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 110px;
+    background-color: rgb(27, 56, 149);
+}
+.AIHeader h1{
+    color: white;
+    font-weight: 400;
+    font-size: 38px;
+}
+
+.contenedor{
+    width: 90%;
+    display: flex;
+    margin: 38px;
+}
+.contenedor h2{
+    font-size: 36px;
+    font-weight: 400;
+    color: #2858AB;
+    text-align: left;
+}
+.contenedorleft{
+    width: 100%;
+    display: flex;
+    height: fit-content;
+    justify-content: center;
+    gap: 60px;
+}
+.contenedorleft h2{
+    font-size: 36px;
+    font-weight: 400;
+    color: #2858AB;
+    text-align: left;
+}
+.contenedorhealth{
+    width: 100%;
+    display: flex;
+    height: fit-content;
+    justify-content: center;
+    gap: 240px;
+}
+.contenedorhealth h2{
+    font-size: 36px;
+    font-weight: 400;
+    color: #2858AB;
+    text-align: left;
+}
+.textDIV{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.textDIV strong{
+    text-align: left;
+    color: #173583;
+    font-weight: 500;
+}
+.textDIV p{
+    text-align: left;
+    font-size: 16px;
+}
+.textDIV ul li {
+    text-align: left;
+}
+.textDIVleft{
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.textDIVleft strong{
+    text-align: left;
+    color: #173583;
+    font-weight: 500;
+}
+.textDIVleft p{
+    text-align: left;
+    font-size: 16px;
+}
+.textDIVhealth{
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    left:1%;
+}
+.textDIVhealth strong{
+    text-align: left;
+    color: #173583;
+    font-weight: 500;
+}
+.textDIVhealth p{
+    text-align: left;
+    font-size: 16px;
+}
+.divider{
+    width:200px;
+    height: 45.33px;
+    position: relative;
+    top: -4%;
+}
+.car{
+    margin-left: 20px;
+    height: 50%;
+    width: 50%;
+}
+.reduction{
+    display: flex;
+    align-items: center;
+    height: 35%;
+    width: 35%;
+}
+.industrial{
+    position: relative;
+    left: 5%;
+    height: 52%;
+    width: 52%;
+}
+.remotehealth{
+    display: flex;
+    align-items: center;
+    height: 25%;
+    width: 25%;
+}
