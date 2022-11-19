@@ -1,0 +1,65 @@
+.FooterDIV{
+    width: 100%;
+    height: 47vh;
+    position: relative;
+    background-color: rgb(22, 35, 57);
+    display: flex;
+    justify-content: center;
+}
+.FooterULalign{
+    display: flex;
+    justify-content: space-around;
+    align-items:baseline;
+    width: 60%;
+}
+.factoryimg{
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    overflow: hidden;
+    z-index: -1;
+}
+.Footerlogo{
+    position: relative;
+    top: 8%;
+}
+.customlogo{
+    color: white;
+    width: 195px;
+    height: 68.28px;
+}
+.FooterList{
+    text-align: left;  
+}
+.FooterList h3{
+color: white;
+font-weight: 500;
+
+}
+.ulfooter{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 0px;
+    padding: 0px;
+    margin-top: 40px;
+}
+
+.ulfooter li {
+    display: flex;
+    color: white;
+    list-style: none;
+    margin: 0px;
+    text-align: left;
+    font-size: 14px;
+}
+.barra{
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.flechita{
+    margin-right: 5px;
+}
